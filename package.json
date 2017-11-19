@@ -9,6 +9,6 @@
   "author": "MoadTheGamer",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^10.0.1"
+    "discord.js": "^11.2.1"
   }
 }
