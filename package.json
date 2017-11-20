@@ -6,11 +6,3 @@
     "node": "6.11.1"
   }
 }
-{
-  "name": "myapp",
-  "description": "a really cool app",
-  "version": "0.0.1",
-  "engines": {
-    "npm": "2.1.x"
-  }
-}
