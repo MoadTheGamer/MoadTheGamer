@@ -1,14 +1,26 @@
 {
-  "name": "MoadTheGamer",
-  "version": "0.0.1",
-  "description": "is MoadTheGamer een bot??",
-  "main": "bot.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.11.1"
+  }
+}
   },
   "author": "MoadTheGamer",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.2.1"
+    node --version
+v6.11.1
+  }
+}
+
+{
+  "name": "myapp",
+  "description": "a really cool app",
+  "version": "0.0.1",
+  "engines": {
+    "npm": "2.1.x"
   }
 }
