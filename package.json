@@ -1,14 +1,14 @@
 {
-  "name": "mybot",
+  "name": "MoadTheGamer",
   "version": "0.0.1",
-  "description": "An Idiot's Guide tutorial Bot",
+  "description": "is MoadTheGamer een bot??",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "An Idiot's Guide",
+  "author": "MoadTheGamer",
   "license": "MIT",
   "dependencies": {
-    "discord.js": "^8.4.0"
+    "discord.js": "v8.4.0"
   }
 }
