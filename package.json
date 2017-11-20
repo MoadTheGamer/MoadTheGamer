@@ -1,17 +1,14 @@
 {
-  "name": "myapp",
-  "description": "a really cool app",
+  "name": "mybot",
   "version": "0.0.1",
-  "engines": {
-    "node": --version
-  }
-}
-
-{
-  "name": "myapp",
-  "description": "a really cool app",
-  "version": "0.0.1",
-  "engines": {
-    "npm": --version  
+  "description": "An Idiot's Guide tutorial Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "An Idiot's Guide",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^8.4.0"
   }
 }
