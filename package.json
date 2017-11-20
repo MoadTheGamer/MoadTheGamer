@@ -11,8 +11,6 @@
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.2.1"
-    node --version
-v6.11.1
   }
 }
 
